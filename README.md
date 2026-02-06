@@ -11,3 +11,7 @@ This project demonstrates basic GPIO control on ESP32 using Wokwi simulation.
 - Difference between onboard and external LEDs
 - Basic embedded C structure
 # esp32-led-blink-gpio2
+
+## Simulation
+Wokwi simulation link:  
+https://wokwi.com/projects/455223023537203201
